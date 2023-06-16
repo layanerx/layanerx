@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hey! I'm layane
 
-<!--
-**layanerx/layanerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning  golang
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+  
+![Layane's GitHub stats](https://github-readme-stats.vercel.app/api?username=layanerx&theme=transparent&dark_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style ="display: inline_block"><br>
+<img align="center" alt="layane-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="layane-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="layane-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="center" alt="layane-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="layane-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+
+
+       
+                  
+
+ 
+          
+           
+          
+          
+        
+        
+</div>
+
+          
+          
