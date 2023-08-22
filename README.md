@@ -1,7 +1,5 @@
 ## Hey! I'm layane
 
-- 🌱 I’m currently learning  golang
-- 😄 Pronouns: she/her
 
   
 ![Layane's GitHub stats](https://github-readme-stats.vercel.app/api?username=layanerx&theme=transparent&dark_icons=true)
