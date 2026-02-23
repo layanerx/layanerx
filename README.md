@@ -14,7 +14,7 @@ Desenvolvedora com foco no ecossistema Java/Spring e expandindo competências em
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📫 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layane-sampaio/)
 
